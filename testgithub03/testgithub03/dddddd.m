@@ -10,4 +10,8 @@
 
 @implementation dddddd
 
+-(void) get {
+    
+}
+
 @end
